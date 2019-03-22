@@ -1442,7 +1442,7 @@
     },
     {
       "Pull Date": "2019-03-20T04:00:00.000Z",
-      "Symbol": true,
+      "Symbol": "TRUE",
       "Name": "Truecar Inc",
       "PBV": 2.05,
       "52WH": 14.55,
