@@ -15,12 +15,12 @@
       "Pot GWTH %": 5.683738796414852,
       "Max Strike": 1.562,
       "Min Strike": 1.4909999999999999,
-      "Price": 1.44,
+      "Price": 1.46,
       "Yest. Close": 1.44,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.014084507042253534
+      "% above 52": 0.028169014084507067
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -37,12 +37,12 @@
       "Pot GWTH %": 5.642424242424243,
       "Max Strike": 1.6500000000000001,
       "Min Strike": 1.5750000000000002,
-      "Price": 1.53,
+      "Price": 1.5,
       "Yest. Close": 1.53,
       "PJ": null,
       "ZJ": "ZJ",
       "PA": null,
-      "% above 52": 0.020000000000000018
+      "% above 52": 0
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -59,12 +59,12 @@
       "Pot GWTH %": 4.730456314113901,
       "Max Strike": 2.827,
       "Min Strike": 2.6985,
-      "Price": 2.59,
+      "Price": 2.63,
       "Yest. Close": 2.59,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.007782101167315182
+      "% above 52": 0.023346303501945546
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -103,12 +103,12 @@
       "Pot GWTH %": 2.956611570247934,
       "Max Strike": 0.9680000000000001,
       "Min Strike": 0.924,
-      "Price": 0.9,
+      "Price": 0.91,
       "Yest. Close": 0.9,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.02272727272727275
+      "% above 52": 0.03409090909090912
     },
     {
       "Pull Date": null,
@@ -125,12 +125,12 @@
       "Pot GWTH %": 2.835616438356164,
       "Max Strike": 0.803,
       "Min Strike": 0.7665,
-      "Price": 0.77,
+      "Price": 0.7,
       "Yest. Close": 0.77,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.05479452054794526
+      "% above 52": -0.04109589041095894
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -147,12 +147,12 @@
       "Pot GWTH %": 2.2467532467532463,
       "Max Strike": 0.30800000000000005,
       "Min Strike": 0.29400000000000004,
-      "Price": 0.3,
+      "Price": 0.31,
       "Yest. Close": 0.3,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.07142857142857129
+      "% above 52": 0.10714285714285703
     },
     {
       "Pull Date": "2019-03-27T04:00:00.000Z",
@@ -191,12 +191,12 @@
       "Pot GWTH %": 1.7984189723320163,
       "Max Strike": 1.265,
       "Min Strike": 1.2075,
-      "Price": 1.24,
+      "Price": 1.19,
       "Yest. Close": 1.24,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.07826086956521747
+      "% above 52": 0.03478260869565221
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -213,12 +213,12 @@
       "Pot GWTH %": 1.7787307032590047,
       "Max Strike": 0.5830000000000001,
       "Min Strike": 0.5565000000000001,
-      "Price": 0.54,
+      "Price": 0.53,
       "Yest. Close": 0.54,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.018867924528301903
+      "% above 52": 0
     },
     {
       "Pull Date": null,
@@ -257,12 +257,12 @@
       "Pot GWTH %": 1.559901338971106,
       "Max Strike": 5.676000000000001,
       "Min Strike": 5.418,
-      "Price": 5.49,
+      "Price": 5.38,
       "Yest. Close": 5.49,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.06395348837209304
+      "% above 52": 0.04263565891472863
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -279,12 +279,12 @@
       "Pot GWTH %": 1.4918541318488414,
       "Max Strike": 83.171,
       "Min Strike": 79.3905,
-      "Price": 78.41,
+      "Price": 79.15,
       "Yest. Close": 78.41,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.03703213860600446
+      "% above 52": 0.046819203809020056
     },
     {
       "Pull Date": "2019-04-10T04:00:00.000Z",
@@ -301,12 +301,12 @@
       "Pot GWTH %": 1.3298559364133133,
       "Max Strike": 4.026000000000001,
       "Min Strike": 3.8430000000000004,
-      "Price": 3.8,
+      "Price": 3.79,
       "Yest. Close": 3.8,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.03825136612021849
+      "% above 52": 0.03551912568306008
     },
     {
       "Pull Date": "2019-03-28T04:00:00.000Z",
@@ -367,12 +367,12 @@
       "Pot GWTH %": 1.2642574816487855,
       "Max Strike": 1.7710000000000004,
       "Min Strike": 1.6905000000000001,
-      "Price": 1.66,
-      "Yest. Close": 1.64,
+      "Price": 1.64,
+      "Yest. Close": 1.66,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.0310559006211179
+      "% above 52": 0.018633540372670686
     },
     {
       "Pull Date": null,
@@ -389,12 +389,12 @@
       "Pot GWTH %": 1.2424242424242422,
       "Max Strike": 1.6500000000000001,
       "Min Strike": 1.5750000000000002,
-      "Price": 1.65,
+      "Price": 1.69,
       "Yest. Close": 1.65,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.09999999999999994
+      "% above 52": 0.12666666666666662
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -411,12 +411,12 @@
       "Pot GWTH %": 1.2348484848484849,
       "Max Strike": 0.792,
       "Min Strike": 0.756,
-      "Price": 0.75,
+      "Price": 0.79,
       "Yest. Close": 0.75,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.041666666666666706
+      "% above 52": 0.09722222222222231
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -433,12 +433,12 @@
       "Pot GWTH %": 1.2016528925619832,
       "Max Strike": 6.050000000000001,
       "Min Strike": 5.775,
-      "Price": 5.65,
-      "Yest. Close": 6.06,
+      "Price": 5.75,
+      "Yest. Close": 5.65,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.027272727272727337
+      "% above 52": 0.045454545454545456
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -455,12 +455,12 @@
       "Pot GWTH %": 1.1953979630328178,
       "Max Strike": 5.3020000000000005,
       "Min Strike": 5.061000000000001,
-      "Price": 4.85,
+      "Price": 4.83,
       "Yest. Close": 4.85,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.006224066390041361
+      "% above 52": 0.0020746887966804537
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -477,12 +477,12 @@
       "Pot GWTH %": 1.183459880976811,
       "Max Strike": 4.873,
       "Min Strike": 4.6514999999999995,
-      "Price": 4.45,
+      "Price": 4.54,
       "Yest. Close": 4.45,
       "PJ": null,
       "ZJ": "OPT",
       "PA": null,
-      "% above 52": 0.004514672686230353
+      "% above 52": 0.02483069977426644
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -500,7 +500,7 @@
       "Max Strike": 2.6950000000000003,
       "Min Strike": 2.5725000000000002,
       "Price": 2.48,
-      "Yest. Close": 2.48,
+      "Yest. Close": 2.46,
       "PJ": null,
       "ZJ": null,
       "PA": null,
@@ -566,7 +566,7 @@
       "Max Strike": 0.48400000000000004,
       "Min Strike": 0.462,
       "Price": 0.46,
-      "Yest. Close": 0.47,
+      "Yest. Close": 0.46,
       "PJ": null,
       "ZJ": null,
       "PA": null,
@@ -590,7 +590,7 @@
       "Price": 0.4,
       "Yest. Close": 0.4,
       "PJ": null,
-      "ZJ": null,
+      "ZJ": "ZJ",
       "PA": null,
       "% above 52": 0.05263157894736847
     },
@@ -609,12 +609,12 @@
       "Pot GWTH %": 1.0661157024793388,
       "Max Strike": 0.48400000000000004,
       "Min Strike": 0.462,
-      "Price": 0.45,
+      "Price": 0.44,
       "Yest. Close": 0.45,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.02272727272727275
+      "% above 52": 0
     },
     {
       "Pull Date": "2019-03-28T04:00:00.000Z",
@@ -631,12 +631,12 @@
       "Pot GWTH %": 1.0619603859827318,
       "Max Strike": 1.9690000000000003,
       "Min Strike": 1.8795000000000002,
-      "Price": 1.77,
+      "Price": 1.76,
       "Yest. Close": 1.77,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": -0.011173184357541908
+      "% above 52": -0.016759776536312863
     },
     {
       "Pull Date": null,
@@ -653,12 +653,12 @@
       "Pot GWTH %": 1.0529470529470528,
       "Max Strike": 4.0040000000000004,
       "Min Strike": 3.8220000000000005,
-      "Price": 3.79,
-      "Yest. Close": 3.79,
+      "Price": 3.71,
+      "Yest. Close": 3.78,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.04120879120879118
+      "% above 52": 0.019230769230769187
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -675,12 +675,12 @@
       "Pot GWTH %": 1.0376175548589341,
       "Max Strike": 9.57,
       "Min Strike": 9.135,
-      "Price": 8.7,
+      "Price": 8.65,
       "Yest. Close": 8.8,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0
+      "% above 52": -0.005747126436781487
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -697,12 +697,12 @@
       "Pot GWTH %": 1.0135420135420135,
       "Max Strike": 9.009,
       "Min Strike": 8.599499999999999,
-      "Price": 8.44,
+      "Price": 8.2,
       "Yest. Close": 8.44,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.030525030525030528
+      "% above 52": 0.001221001221001195
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -719,12 +719,12 @@
       "Pot GWTH %": 0.9715224534501643,
       "Max Strike": 0.913,
       "Min Strike": 0.8714999999999999,
-      "Price": 0.88,
-      "Yest. Close": 0.9,
+      "Price": 0.72,
+      "Yest. Close": 0.88,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.06024096385542174
+      "% above 52": -0.1325301204819277
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -741,12 +741,12 @@
       "Pot GWTH %": 0.9674355495251015,
       "Max Strike": 0.7370000000000001,
       "Min Strike": 0.7035000000000001,
-      "Price": 0.71,
+      "Price": 0.76,
       "Yest. Close": 0.71,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.059701492537313314
+      "% above 52": 0.13432835820895517
     },
     {
       "Pull Date": "2019-04-09T04:00:00.000Z",
@@ -763,12 +763,12 @@
       "Pot GWTH %": 0.9633507853403142,
       "Max Strike": 4.202,
       "Min Strike": 4.011,
-      "Price": 3.95,
+      "Price": 3.9,
       "Yest. Close": 3.95,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.034031413612565536
+      "% above 52": 0.02094240837696337
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -785,12 +785,12 @@
       "Pot GWTH %": 0.9607843137254901,
       "Max Strike": 1.122,
       "Min Strike": 1.0710000000000002,
-      "Price": 1.1,
+      "Price": 1.07,
       "Yest. Close": 1.1,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.07843137254901968
+      "% above 52": 0.049019607843137296
     },
     {
       "Pull Date": null,
@@ -829,12 +829,12 @@
       "Pot GWTH %": 0.9454545454545454,
       "Max Strike": 1.1,
       "Min Strike": 1.05,
-      "Price": 1.08,
+      "Price": 1.07,
       "Yest. Close": 1.08,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.08000000000000007
+      "% above 52": 0.07000000000000006
     },
     {
       "Pull Date": null,
@@ -851,12 +851,12 @@
       "Pot GWTH %": 0.9349546419610114,
       "Max Strike": 10.362,
       "Min Strike": 9.891,
-      "Price": 9.66,
+      "Price": 9.18,
       "Yest. Close": 9.66,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.02547770700636945
+      "% above 52": -0.02547770700636945
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -873,12 +873,12 @@
       "Pot GWTH %": 0.9309249702262802,
       "Max Strike": 25.19,
       "Min Strike": 24.044999999999998,
-      "Price": 24.47,
+      "Price": 23.81,
       "Yest. Close": 24.47,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.06855895196506552
+      "% above 52": 0.039737991266375554
     },
     {
       "Pull Date": null,
@@ -892,15 +892,15 @@
       "3ML": 1.41,
       "1ML": 1.41,
       "Buy Sell": 0.9375,
-      "Pot GWTH %": 0.8958265933354901,
-      "Max Strike": 3.091,
-      "Min Strike": 2.9505000000000003,
-      "Price": 1.95,
+      "Pot GWTH %": 2.778207607994842,
+      "Max Strike": 1.551,
+      "Min Strike": 1.4805,
+      "Price": 2.75,
       "Yest. Close": 1.95,
       "PJ": null,
-      "ZJ": null,
+      "ZJ": "OPT",
       "PA": null,
-      "% above 52": -0.30604982206405695
+      "% above 52": 0.9503546099290782
     },
     {
       "Pull Date": "2019-03-21T04:00:00.000Z",
@@ -917,12 +917,12 @@
       "Pot GWTH %": 0.8867623604465709,
       "Max Strike": 6.2700000000000005,
       "Min Strike": 5.985,
-      "Price": 5.64,
+      "Price": 5.67,
       "Yest. Close": 5.64,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": -0.01052631578947377
+      "% above 52": -0.005263157894736885
     },
     {
       "Pull Date": null,
@@ -939,12 +939,12 @@
       "Pot GWTH %": 0.8822023047375158,
       "Max Strike": 7.8100000000000005,
       "Min Strike": 7.455,
-      "Price": 7.52,
+      "Price": 7.3,
       "Yest. Close": 7.52,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.05915492957746478
+      "% above 52": 0.028169014084507067
     },
     {
       "Pull Date": "2019-03-20T04:00:00.000Z",
@@ -962,7 +962,7 @@
       "Max Strike": 3.4100000000000006,
       "Min Strike": 3.2550000000000003,
       "Price": 2.8,
-      "Yest. Close": 2.83,
+      "Yest. Close": 2.8,
       "PJ": null,
       "ZJ": null,
       "PA": null,
@@ -983,12 +983,12 @@
       "Pot GWTH %": 0.8371821104940075,
       "Max Strike": 6.8420000000000005,
       "Min Strike": 6.531,
-      "Price": 6.58,
+      "Price": 6.33,
       "Yest. Close": 6.58,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.057877813504823204
+      "% above 52": 0.017684887459807126
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -1005,12 +1005,12 @@
       "Pot GWTH %": 0.8252840909090906,
       "Max Strike": 2.8160000000000003,
       "Min Strike": 2.688,
-      "Price": 2.59,
+      "Price": 2.65,
       "Yest. Close": 2.59,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.011718749999999924
+      "% above 52": 0.035156249999999944
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -1027,12 +1027,12 @@
       "Pot GWTH %": 0.8050065876152834,
       "Max Strike": 1.518,
       "Min Strike": 1.4489999999999998,
-      "Price": 1.46,
+      "Price": 1.47,
       "Yest. Close": 1.48,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.05797101449275368
+      "% above 52": 0.0652173913043479
     },
     {
       "Pull Date": "2019-04-10T04:00:00.000Z",
@@ -1049,12 +1049,12 @@
       "Pot GWTH %": 0.7951515151515152,
       "Max Strike": 8.25,
       "Min Strike": 7.875,
-      "Price": 8.14,
-      "Yest. Close": 8.15,
+      "Price": 8.23,
+      "Yest. Close": 8.14,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.08533333333333341
+      "% above 52": 0.0973333333333334
     },
     {
       "Pull Date": "2019-04-10T04:00:00.000Z",
@@ -1071,12 +1071,12 @@
       "Pot GWTH %": 0.7886750035127161,
       "Max Strike": 7.117,
       "Min Strike": 6.7935,
-      "Price": 6.57,
-      "Yest. Close": 6.75,
+      "Price": 6.65,
+      "Yest. Close": 6.57,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.015455950540958352
+      "% above 52": 0.027820710973724978
     },
     {
       "Pull Date": null,
@@ -1093,12 +1093,12 @@
       "Pot GWTH %": 0.7656765676567655,
       "Max Strike": 6.666,
       "Min Strike": 6.3629999999999995,
-      "Price": 6.22,
+      "Price": 6.23,
       "Yest. Close": 6.22,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.026402640264026427
+      "% above 52": 0.02805280528052819
     },
     {
       "Pull Date": null,
@@ -1115,12 +1115,12 @@
       "Pot GWTH %": 0.7575757575757571,
       "Max Strike": 1.4850000000000003,
       "Min Strike": 1.4175000000000002,
-      "Price": 1.38,
+      "Price": 1.33,
       "Yest. Close": 1.38,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.022222222222222077
+      "% above 52": -0.014814814814814828
     },
     {
       "Pull Date": "2019-03-28T04:00:00.000Z",
@@ -1137,12 +1137,12 @@
       "Pot GWTH %": 0.7525930445393533,
       "Max Strike": 6.556,
       "Min Strike": 6.258,
-      "Price": 6.41,
+      "Price": 6.4,
       "Yest. Close": 6.41,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.07550335570469802
+      "% above 52": 0.07382550335570476
     },
     {
       "Pull Date": null,
@@ -1159,12 +1159,12 @@
       "Pot GWTH %": 0.7454545454545454,
       "Max Strike": 1.375,
       "Min Strike": 1.3125,
-      "Price": 1.29,
+      "Price": 1.3,
       "Yest. Close": 1.28,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.03200000000000003
+      "% above 52": 0.040000000000000036
     },
     {
       "Pull Date": null,
@@ -1181,12 +1181,12 @@
       "Pot GWTH %": 0.7438860798679184,
       "Max Strike": 9.691,
       "Min Strike": 9.2505,
-      "Price": 9.08,
+      "Price": 9.05,
       "Yest. Close": 9.08,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.030646992054483492
+      "% above 52": 0.027241770715096505
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -1203,12 +1203,12 @@
       "Pot GWTH %": 0.7405151701402469,
       "Max Strike": 89.485,
       "Min Strike": 85.4175,
-      "Price": 82.27,
+      "Price": 80.69,
       "Yest. Close": 82.27,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.011309157959434563
+      "% above 52": -0.008113091579594304
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -1225,12 +1225,12 @@
       "Pot GWTH %": 0.7250554323725057,
       "Max Strike": 2.255,
       "Min Strike": 2.1525,
-      "Price": 2.09,
+      "Price": 2.1,
       "Yest. Close": 2.09,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.019512195121951237
+      "% above 52": 0.024390243902439157
     },
     {
       "Pull Date": null,
@@ -1247,12 +1247,12 @@
       "Pot GWTH %": 0.7066788030492659,
       "Max Strike": 8.789000000000001,
       "Min Strike": 8.3895,
-      "Price": 8.3,
-      "Yest. Close": 8.35,
+      "Price": 8.4,
+      "Yest. Close": 8.24,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.03879849812265338
+      "% above 52": 0.051314142678347954
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -1269,12 +1269,12 @@
       "Pot GWTH %": 0.7007826610475616,
       "Max Strike": 3.3220000000000005,
       "Min Strike": 3.1710000000000003,
-      "Price": 3.28,
+      "Price": 3.34,
       "Yest. Close": 3.28,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.086092715231788
+      "% above 52": 0.1059602649006622
     },
     {
       "Pull Date": null,
@@ -1291,12 +1291,12 @@
       "Pot GWTH %": 0.6953316953316953,
       "Max Strike": 7.3260000000000005,
       "Min Strike": 6.993,
-      "Price": 6.72,
-      "Yest. Close": 6.77,
+      "Price": 6.47,
+      "Yest. Close": 6.72,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.00900900900900895
+      "% above 52": -0.028528528528528586
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -1313,12 +1313,12 @@
       "Pot GWTH %": 0.6931818181818179,
       "Max Strike": 0.8800000000000001,
       "Min Strike": 0.8400000000000001,
-      "Price": 0.87,
+      "Price": 0.85,
       "Yest. Close": 0.87,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.08749999999999994
+      "% above 52": 0.06249999999999992
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -1335,12 +1335,12 @@
       "Pot GWTH %": 0.6929133858267715,
       "Max Strike": 5.588000000000001,
       "Min Strike": 5.3340000000000005,
-      "Price": 5.42,
+      "Price": 5.36,
       "Yest. Close": 5.42,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.06692913385826768
+      "% above 52": 0.05511811023622052
     },
     {
       "Pull Date": "2019-04-11T04:00:00.000Z",
@@ -1357,12 +1357,12 @@
       "Pot GWTH %": 0.6902076026163614,
       "Max Strike": 10.549000000000001,
       "Min Strike": 10.0695,
-      "Price": 10.01,
+      "Price": 9.66,
       "Yest. Close": 10.01,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.0437956204379562
+      "% above 52": 0.007299270072992731
     },
     {
       "Pull Date": "2019-04-11T04:00:00.000Z",
@@ -1379,12 +1379,12 @@
       "Pot GWTH %": 0.6901308807923593,
       "Max Strike": 14.135000000000002,
       "Min Strike": 13.4925,
-      "Price": 13.3,
+      "Price": 13.29,
       "Yest. Close": 13.3,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.03501945525291837
+      "% above 52": 0.03424124513618673
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -1445,12 +1445,12 @@
       "Pot GWTH %": 0.6344795101271784,
       "Max Strike": 2.123,
       "Min Strike": 2.0265,
-      "Price": 2.07,
+      "Price": 1.99,
       "Yest. Close": 2.07,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.0725388601036269
+      "% above 52": 0.03108808290155443
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -1467,12 +1467,12 @@
       "Pot GWTH %": 0.6171328671328669,
       "Max Strike": 3.4320000000000004,
       "Min Strike": 3.2760000000000002,
-      "Price": 3.31,
+      "Price": 3.3,
       "Yest. Close": 3.31,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.060897435897435875
+      "% above 52": 0.0576923076923076
     },
     {
       "Pull Date": "2019-04-11T04:00:00.000Z",
@@ -1489,12 +1489,12 @@
       "Pot GWTH %": 0.6002344665885111,
       "Max Strike": 18.766000000000002,
       "Min Strike": 17.913,
-      "Price": 17.34,
-      "Yest. Close": 17.34,
+      "Price": 17.65,
+      "Yest. Close": 17.48,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.01641266119577967
+      "% above 52": 0.034583821805392725
     },
     {
       "Pull Date": null,
@@ -1511,12 +1511,12 @@
       "Pot GWTH %": 0.5909090909090907,
       "Max Strike": 4.0040000000000004,
       "Min Strike": 3.8220000000000005,
-      "Price": 3.76,
+      "Price": 3.8,
       "Yest. Close": 3.76,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.03296703296703287
+      "% above 52": 0.04395604395604387
     },
     {
       "Pull Date": "2019-04-11T04:00:00.000Z",
@@ -1533,12 +1533,12 @@
       "Pot GWTH %": 0.5898520084566594,
       "Max Strike": 2.365,
       "Min Strike": 2.2575,
-      "Price": 2.27,
-      "Yest. Close": 2.27,
+      "Price": 2.28,
+      "Yest. Close": 2.28,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.05581395348837215
+      "% above 52": 0.06046511627906972
     },
     {
       "Pull Date": null,
@@ -1555,12 +1555,12 @@
       "Pot GWTH %": 0.581961345740873,
       "Max Strike": 2.7940000000000005,
       "Min Strike": 2.6670000000000003,
-      "Price": 2.66,
-      "Yest. Close": 2.58,
+      "Price": 2.7,
+      "Yest. Close": 2.66,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.04724409448818902
+      "% above 52": 0.06299212598425202
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -1578,7 +1578,7 @@
       "Max Strike": 4.246,
       "Min Strike": 4.053,
       "Price": 4,
-      "Yest. Close": 4,
+      "Yest. Close": 4.05,
       "PJ": null,
       "ZJ": null,
       "PA": null,
@@ -1599,12 +1599,12 @@
       "Pot GWTH %": 0.5671809635194098,
       "Max Strike": 22.231,
       "Min Strike": 21.2205,
-      "Price": 22,
-      "Yest. Close": 21.75,
+      "Price": 21.8,
+      "Yest. Close": 22,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.08857001484413653
+      "% above 52": 0.07867392380009895
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -1621,12 +1621,12 @@
       "Pot GWTH %": 0.5654742369543811,
       "Max Strike": 9.141000000000002,
       "Min Strike": 8.7255,
-      "Price": 8.41,
+      "Price": 8.19,
       "Yest. Close": 8.41,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.012033694344163615
+      "% above 52": -0.014440433212996508
     },
     {
       "Pull Date": "2019-03-28T04:00:00.000Z",
@@ -1643,12 +1643,12 @@
       "Pot GWTH %": 0.5633608815426996,
       "Max Strike": 1.4520000000000002,
       "Min Strike": 1.3860000000000001,
-      "Price": 0.26,
+      "Price": 0.25,
       "Yest. Close": 0.26,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": -0.803030303030303
+      "% above 52": -0.8106060606060607
     },
     {
       "Pull Date": null,
@@ -1665,12 +1665,12 @@
       "Pot GWTH %": 0.5497778311516749,
       "Max Strike": 16.654000000000003,
       "Min Strike": 15.897000000000002,
-      "Price": 15.93,
+      "Price": 15.68,
       "Yest. Close": 15.93,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.05217965653896956
+      "% above 52": 0.03566710700132095
     },
     {
       "Pull Date": null,
@@ -1687,12 +1687,12 @@
       "Pot GWTH %": 0.544209215442092,
       "Max Strike": 0.803,
       "Min Strike": 0.7665,
-      "Price": 0.78,
-      "Yest. Close": 0.79,
+      "Price": 1,
+      "Yest. Close": 0.78,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.06849315068493157
+      "% above 52": 0.36986301369863017
     },
     {
       "Pull Date": null,
@@ -1709,12 +1709,12 @@
       "Pot GWTH %": 0.5365947611710321,
       "Max Strike": 25.960000000000004,
       "Min Strike": 24.78,
-      "Price": 24.44,
+      "Price": 24.78,
       "Yest. Close": 24.44,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.035593220338983045
+      "% above 52": 0.04999999999999998
     },
     {
       "Pull Date": "2019-04-11T04:00:00.000Z",
@@ -1731,12 +1731,12 @@
       "Pot GWTH %": 0.5318181818181817,
       "Max Strike": 2.2,
       "Min Strike": 2.1,
-      "Price": 2.15,
+      "Price": 2.07,
       "Yest. Close": 2.15,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.07499999999999996
+      "% above 52": 0.03499999999999992
     },
     {
       "Pull Date": "2019-04-11T04:00:00.000Z",
@@ -1753,12 +1753,12 @@
       "Pot GWTH %": 0.527085619703866,
       "Max Strike": 55.583000000000006,
       "Min Strike": 53.05650000000001,
-      "Price": 53.37,
+      "Price": 53.63,
       "Yest. Close": 53.37,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.056204235107856645
+      "% above 52": 0.06134969325153377
     },
     {
       "Pull Date": "2019-03-25T04:00:00.000Z",
@@ -1775,12 +1775,12 @@
       "Pot GWTH %": 0.5259215743868408,
       "Max Strike": 6.809000000000001,
       "Min Strike": 6.4995,
-      "Price": 6.28,
+      "Price": 6.19,
       "Yest. Close": 6.28,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.014539579967689798
+      "% above 52": 0
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -1797,12 +1797,12 @@
       "Pot GWTH %": 0.519024106883532,
       "Max Strike": 3.443,
       "Min Strike": 3.2865,
-      "Price": 3.38,
+      "Price": 3.47,
       "Yest. Close": 3.38,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.07987220447284345
+      "% above 52": 0.1086261980830672
     },
     {
       "Pull Date": "2019-03-27T04:00:00.000Z",
@@ -1819,12 +1819,12 @@
       "Pot GWTH %": 0.5154373927958832,
       "Max Strike": 34.980000000000004,
       "Min Strike": 33.39,
-      "Price": 34.6,
-      "Yest. Close": 33.97,
+      "Price": 34.47,
+      "Yest. Close": 34.6,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.08805031446540883
+      "% above 52": 0.08396226415094334
     },
     {
       "Pull Date": "2019-03-28T04:00:00.000Z",
@@ -1841,12 +1841,12 @@
       "Pot GWTH %": 0.5085781897061722,
       "Max Strike": 5.071000000000001,
       "Min Strike": 4.8405000000000005,
-      "Price": 4.65,
+      "Price": 4.6,
       "Yest. Close": 4.65,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.008676789587852502
+      "% above 52": -0.00216919739696327
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -1863,12 +1863,12 @@
       "Pot GWTH %": 0.5034965034965037,
       "Max Strike": 2.574,
       "Min Strike": 2.457,
-      "Price": 2.47,
+      "Price": 2.39,
       "Yest. Close": 2.47,
       "PJ": null,
-      "ZJ": null,
+      "ZJ": "ZJ",
       "PA": null,
-      "% above 52": 0.055555555555555705
+      "% above 52": 0.021367521367521482
     },
     {
       "Pull Date": null,
@@ -1885,12 +1885,12 @@
       "Pot GWTH %": 0.502292295650229,
       "Max Strike": 17.886000000000003,
       "Min Strike": 17.073000000000004,
-      "Price": 16.57,
+      "Price": 16.7,
       "Yest. Close": 16.57,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.019065190651906438
+      "% above 52": 0.027060270602705886
     },
     {
       "Pull Date": "2019-03-28T04:00:00.000Z",
@@ -1907,12 +1907,12 @@
       "Pot GWTH %": 0.5016002075944987,
       "Max Strike": 11.561,
       "Min Strike": 11.0355,
-      "Price": 11.19,
-      "Yest. Close": 11.24,
+      "Price": 11.25,
+      "Yest. Close": 11.19,
       "PJ": null,
       "ZJ": null,
       "PA": null,
-      "% above 52": 0.06470028544243575
+      "% above 52": 0.07040913415794484
     },
     {
       "Pull Date": "2019-04-17T04:00:00.000Z",
@@ -1930,7 +1930,7 @@
       "Max Strike": 0.8800000000000001,
       "Min Strike": 0.8400000000000001,
       "Price": 0.85,
-      "Yest. Close": 0.83,
+      "Yest. Close": 0.85,
       "PJ": null,
       "ZJ": null,
       "PA": null,
